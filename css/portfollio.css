@@ -1,12 +1,16 @@
 body{
-	background-image: url("../img/kitty.Jpg");
+	margin: 0;
+	background-image: url("../img/kitty.JPG");
 	background-size: cover;
 }
 
 
 .header {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
 	text-align: center;
-	color: black;
+	color: white;
 }
 
 .imgs img {
@@ -20,7 +24,7 @@ body{
 .s_icons {
 	height: 50px;
 	width: 50px;
-	color: black;
+	color: white;
 	padding: 10px;
 }
 
